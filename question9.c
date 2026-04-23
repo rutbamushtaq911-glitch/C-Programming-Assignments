@@ -10,8 +10,7 @@ int main(){
         printf(" the sum is %d",sum);
         
     
-    return 0;}
-
+    return 0;} 
 
 
 
