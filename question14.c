@@ -1,17 +1,10 @@
-#include<stdio.h>
+#include<stdio.h>;
+int area(int a);
+int area(int a){
+    printf(" the area is %d",a*a);
+   
+}
 int main(){
-    int i;
-    int key = 30;
-int arr[5]={10,20,30,40,50};
-for(i=0;i<5;i++){
-    if(arr[i]==key){
-        printf(" element found");
-    }
-
-
-}
-
-
-
-
-}
+    int b = 2;
+      area(b);
+       return 0;}
